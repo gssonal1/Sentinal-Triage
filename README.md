@@ -1,4 +1,5 @@
 🛡 SentinelTriage: AI-Assisted SOC Detection & Auto-Containment
+
 A hands-on Blue-Team lab that detects attacks in real time, maps them to MITRE ATT&CK, and automatically contains the attacker with an LLM-assisted triage layer that explains each decision in plain English.
 
 ⚙ What this is: a self-contained detection-engineering lab built to develop and validate detections the same way it's done in industry simulate attacks, write detections, confirm they fire, automate the response.
